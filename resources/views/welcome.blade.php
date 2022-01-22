@@ -1,4 +1,4 @@
-<!-- Author : Muhammad Amir Syafiq// -->
+<!-- Author : Muhammad Amir Syafiq -->
 
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
